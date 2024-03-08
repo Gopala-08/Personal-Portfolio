@@ -1,0 +1,48 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/languages.png",
+      "title": "Languagues",
+      "description": "HTML, JavaScript, TypeScript, C/C++, Python, SQL"
+    },
+    {
+      "id": "2",
+      "src": "./img/frameworks.png",
+      "title": "Frame works",
+      "description": "React Js, React Native, CSS, Bootstrap, jQuery"
+    },
+    {
+      "id": "3",
+      "src": "./img/development_tools.png",
+      "title": "Development Tools",
+      "description": "Github, Bitbucket, Jira, Android Studio, Xcode"
+    },
+    {
+      "id": "4",
+      "src": "./img/others.png",
+      "title": "Others",
+      "description": "DSA, AWS, Debugging, UI/UX Design, Figma"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/rummytime_app.png",
+      "title": "RummyTime App",
+      "description": "Worked along with a team of software engineers to develop RummyTime, leading online Rummy gaming app, on the frontend to implement different features of the game using React Native and the backend to create different APIs for the data using Node Js and resolving production issues, debugging and deploying the code on Website, PlayStore and AppStore."
+    },
+    {
+      "id": "2",
+      "src": "./img/textual_description.png",
+      "title": "Textual Description of an Image using Deep Learning",
+      "description": "Developed a Machine Learning model that can understand the content of an image and generate corresponding textual description. For this project, we have used a combination of a Convolutional Neural Network (CNN) and a Recurrent Neural Network (RNN), specifically a Long Short-Term Memory (LSTM) network."
+    },
+    {
+      "id": "3",
+      "src": "./img/simon_game.png",
+      "title": "Simon Game",
+      "description": "The game is created using HTML,CSS,JavaScript and frameworks like Bootstrap, jQuery.The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over and the user is lost."
+    }
+  ]
+}
